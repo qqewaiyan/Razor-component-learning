@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Blazor\\llll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|d:\\blazor\\llll\\llll\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|solutionrelative:llll\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|d:\\blazor\\llll\\llll\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|solutionrelative:llll\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|d:\\blazor\\llll\\llll\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|solutionrelative:llll\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|d:\\blazor\\llll\\llll\\pages\\contactcomponent\\contactcomponent01.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|solutionrelative:llll\\pages\\contactcomponent\\contactcomponent01.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|d:\\blazor\\llll\\llll\\pages\\contactcomponent\\testcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|solutionrelative:llll\\pages\\contactcomponent\\testcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|d:\\blazor\\llll\\llll\\pages\\contactcomponent\\contactlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|solutionrelative:llll\\pages\\contactcomponent\\contactlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|d:\\blazor\\llll\\llll\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|solutionrelative:llll\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|d:\\blazor\\llll\\llll\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9C4C1EF-95FE-4474-8970-2A54491C4FB6}|llll\\llll.csproj|solutionrelative:llll\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor.cs",
+              "DocumentMoniker": "D:\\Blazor\\llll\\llll\\Pages\\Home.razor.cs",
+              "RelativeDocumentMoniker": "llll\\Pages\\Home.razor.cs",
+              "ToolTip": "D:\\Blazor\\llll\\llll\\Pages\\Home.razor.cs",
+              "RelativeToolTip": "llll\\Pages\\Home.razor.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:24:32.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactList.razor",
+              "DocumentMoniker": "D:\\Blazor\\llll\\llll\\Pages\\ContactComponent\\ContactList.razor",
+              "RelativeDocumentMoniker": "llll\\Pages\\ContactComponent\\ContactList.razor",
+              "ToolTip": "D:\\Blazor\\llll\\llll\\Pages\\ContactComponent\\ContactList.razor",
+              "RelativeToolTip": "llll\\Pages\\ContactComponent\\ContactList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T11:17:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestComponent.razor",
+              "DocumentMoniker": "D:\\Blazor\\llll\\llll\\Pages\\ContactComponent\\TestComponent.razor",
+              "RelativeDocumentMoniker": "llll\\Pages\\ContactComponent\\TestComponent.razor",
+              "ToolTip": "D:\\Blazor\\llll\\llll\\Pages\\ContactComponent\\TestComponent.razor",
+              "RelativeToolTip": "llll\\Pages\\ContactComponent\\TestComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T20:03:20.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Blazor\\llll\\llll\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "llll\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Blazor\\llll\\llll\\Pages\\Counter.razor",
+              "RelativeToolTip": "llll\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T19:42:20.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactComponent01.razor",
+              "DocumentMoniker": "D:\\Blazor\\llll\\llll\\Pages\\ContactComponent\\ContactComponent01.razor",
+              "RelativeDocumentMoniker": "llll\\Pages\\ContactComponent\\ContactComponent01.razor",
+              "ToolTip": "D:\\Blazor\\llll\\llll\\Pages\\ContactComponent\\ContactComponent01.razor",
+              "RelativeToolTip": "llll\\Pages\\ContactComponent\\ContactComponent01.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T19:31:04.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Blazor\\llll\\llll\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "llll\\Models\\Contact.cs",
+              "ToolTip": "D:\\Blazor\\llll\\llll\\Models\\Contact.cs",
+              "RelativeToolTip": "llll\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:14:39.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Blazor\\llll\\llll\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "llll\\Pages\\Home.razor",
+              "ToolTip": "D:\\Blazor\\llll\\llll\\Pages\\Home.razor",
+              "RelativeToolTip": "llll\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T05:22:56.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Blazor\\llll\\llll\\_Imports.razor",
+              "RelativeDocumentMoniker": "llll\\_Imports.razor",
+              "ToolTip": "D:\\Blazor\\llll\\llll\\_Imports.razor",
+              "RelativeToolTip": "llll\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T19:16:33.939Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

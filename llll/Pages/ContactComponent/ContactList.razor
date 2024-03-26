@@ -1,0 +1,33 @@
+﻿<h3>ContactList</h3>
+@if(Contacts == null)
+{
+    @NullRenderFragment
+}
+else  if(Contacts.Count == 0)
+{
+     @EmptyRenderFragment
+}
+else
+{
+    @foreach (var contact in Contacts)
+    {
+
+        <ContactComponent01 currentContact="contact" DeleteCurrentContact="DeleteContact"></ContactComponent01>
+    }
+}
+
+
+
+@code {
+    [Parameter]
+    public RenderFragment NullRenderFragment { get; set; }
+    [Parameter]
+    public RenderFragment EmptyRenderFragment { get; set; }
+    [Parameter]
+    public List<Contact> Contacts { get; set; }
+
+    private void DeleteContact(Contact contact)
+    {
+        Contacts.Remove(contact);
+    }
+}

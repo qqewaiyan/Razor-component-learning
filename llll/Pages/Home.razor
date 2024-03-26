@@ -1,0 +1,13 @@
+﻿@page "/"
+@using llll.Pages.ContactComponent
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, Lich Kings</h1>
+
+<ContactList Contacts="contacts">
+    <NullRenderFragment>Contact is loading.....</NullRenderFragment>
+    <EmptyRenderFragment>There is no contact to display</EmptyRenderFragment>
+</ContactList>
+
+
