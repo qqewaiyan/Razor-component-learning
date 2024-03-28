@@ -1029,3 +1029,4 @@ D:\Blazor\llll\llll\obj\Debug\net8.0\llll.dll
 D:\Blazor\llll\llll\obj\Debug\net8.0\refint\llll.dll
 D:\Blazor\llll\llll\obj\Debug\net8.0\llll.pdb
 D:\Blazor\llll\llll\obj\Debug\net8.0\ref\llll.dll
+D:\Blazor\llll\llll\obj\Debug\net8.0\llll.sourcelink.json
